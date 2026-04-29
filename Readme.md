@@ -1,77 +1,43 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
-
-:star: Star me on GitHub — it helps!
-
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
+Hồ sơ Cá nhân (Portfolio) 🔥
+https://huygiatran.github.io/My_Portfolio/
 
 
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
+Tính năng 📋
+⚡️ Hiển thị tốt trên mọi thiết bị (Fully Responsive)
 
+⚡️ Chuẩn HTML5 & CSS3
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+⚡️ Hiệu ứng đánh chữ sử dụng thư viện Typed.js
 
+⚡️ Dễ dàng chỉnh sửa
 
-:star: Star me on GitHub — it helps!
+Cài đặt & Triển khai 📦
+Sao chép (Clone) kho lưu trữ và chỉnh sửa nội dung trong tệp index.html.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+Thêm hoặc xóa hình ảnh trong thư mục assets/img/ theo nhu cầu của bạn.
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+Cập nhật thông tin trong thư mục projects cho phù hợp.
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+Sử dụng GitHub Pages để tạo trang web của riêng bạn.
 
+Để triển khai trang web, trước tiên bạn cần tạo một kho lưu trữ GitHub với tên <tên-người-dùng-github>.github.io và đẩy (push) mã nguồn đã chỉnh sửa lên nhánh master.
 
+Các mục nội dung 📚
+✔️ Giới thiệu (About)
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+✔️ Sở thích (Interests)
 
-## Contributing 💡
-#### Step 1
+✔️ Học vấn (Education)
 
-- **Option 1**
-    - 🍴 Fork this repo!
+✔️ Chứng chỉ trực tuyến (Online Certification)
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+✔️ Kinh nghiệm (Experience)
 
+✔️ Dự án (Projects)
 
-#### Step 2
+✔️ Kỹ năng (Skills)
 
-- **Build your code** 🔨🔨🔨
+✔️ Thông tin liên hệ (Contact Info)
 
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+Công cụ sử dụng 🛠️
+GitHub Pages - Để lưu trữ trang web tĩnh (HTML, CSS, JS).
